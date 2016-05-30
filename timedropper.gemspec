@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["rahullakhaney"]
   spec.email         = ["rahul.lakhaney@code-brew.com"]
 
-  spec.summary       = %q{TODO: Timedropper is a JQuery time plugin.}
-  spec.description   = %q{TODO: Timedropper is a JQuery time plugin.}
-  spec.homepage      = "TODO: https://www.github.com/rahullakhaney/timedropper-gem"
+  spec.summary       = %q{Timedropper is a JQuery time plugin.}
+  spec.description   = %q{Timedropper is a JQuery time plugin.}
+  spec.homepage      = "https://www.github.com/rahullakhaney/timedropper-gem"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
