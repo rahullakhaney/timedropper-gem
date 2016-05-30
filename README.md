@@ -1,8 +1,7 @@
 # Timedropper
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/timedropper`. To experiment with that code, run `bin/console` for an interactive prompt.
+Ruby gem for [Timedropper](http://felicegattuso.com/projects/timedropper) JQuery plugin.
 
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
@@ -22,7 +21,21 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To your ```application.js``` file, add:
+
+```Javascript
+//= require timedropper
+```
+
+Then, in your application.css, add:
+
+```CSS
+@import "timedropper";
+```
+
+## Customisations
+
+For further help on customisations, you can visit the official website [Timedropper](http://felicegattuso.com/projects/timedropper).
 
 ## Development
 
